@@ -85,6 +85,9 @@ p
 		width:96%;
 		margin:0 auto;
 	}
+	.box-3>h2{
+		width:20%;
+	}
 }
 
 @media (max-width:767px)
